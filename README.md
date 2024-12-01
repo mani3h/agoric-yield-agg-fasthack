@@ -32,3 +32,40 @@ any time.
 - Create or log in to your [Infura.io](https://infura.io/login) account and create a new project, and save your project ID located in your project settings, you'll need this when starting the ganache-cli server.
 - Install [MetaMask](https://metamask.io/) in your browser.
 - Install [Ganache-cli](https://github.com/trufflesuite/ganache). To see if you have ganache-cli installed, in your command line type `ganache-cli --version`. To install, in your command line type `npm install ganache-cli --global`
+
+
+
+
+
+Features
+Optimized Yield Strategies
+
+Algorithmically driven strategies optimized for high returns across multiple DeFi protocols.
+Agoric Orchestration Integration
+
+Utilizes Agoric’s orchestration framework to manage smart contract execution, ensuring efficiency and composability.
+Automated Rebalancing
+
+Dynamically reallocates funds using Agoric's contract orchestration to maintain high yields and minimize risks.
+Risk Management
+
+Leverages Agoric Hardened JavaScript and Zoe contracts for secure, tamper-proof transactions.
+User-Centric Interface
+
+Simple, intuitive dashboards integrated seamlessly with Agoric APIs for monitoring yield performance.
+Governance and Customization
+
+Implements decentralized governance with Agoric's governance tools for community-driven decision-making.
+
+### Optimising features with Agoric Orchestration
+
+Optimized Yield Strategies
+
+Algorithmically driven strategies optimized for high returns across multiple DeFi protocols.
+Agoric Orchestration Integration
+
+Utilizes Agoric’s orchestration framework to manage smart contract execution, ensuring efficiency and composability.
+Automated Rebalancing
+
+Dynamically reallocates funds using Agoric's contract orchestration to maintain high yields and minimize risks.
+
